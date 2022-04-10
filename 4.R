@@ -12,4 +12,4 @@ hist(y)
 
 #4.c
 #Mean dari Distribusi Chisquare adalah v = 10
-#Varians dari Distribusi Chisquare adalah 2v = 20
+#Varian dari Distribusi Chisquare adalah 2v = 20
